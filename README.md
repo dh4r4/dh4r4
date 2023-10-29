@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning building rooftop bars.
 - 📫 How to reach me ... (Pls don't I'm anti-social)
 
-I should probably be on r/masterhacker xD. 
+I should probably be on r/masterhacker xD
 
 Comp. Sci. student and OSCP certified I try to expand my knowledge about the ever expanding world of cyber security.
 I'm currently preparing for OSWE, learning Binary Exploitation, Reverse Engineering and general evasion techniques.
