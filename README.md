@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dh4r4
 - 👀 I’m interested in Error codes
-- 🌱 I’m currently learning building rooftop bars.
+- 🌱 I’m currently learning building rooftop bars in Sims 4.
 - 📫 How to reach me ... (Pls don't I'm anti-social)
 
+## `$ whoami`
 I should probably be on r/masterhacker xD
 
 Comp. Sci. student and OSCP certified I try to expand my knowledge about the ever expanding world of cyber security.
