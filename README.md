@@ -6,10 +6,10 @@
 ## `$ whoami`
 I should probably be on r/masterhacker xD
 
-Comp. Sci. student and OSCP certified I try to expand my knowledge about the ever expanding world of cyber security.
-I'm currently preparing for OSWE, learning Binary Exploitation, Reverse Engineering and general evasion techniques.
+As a computer science student and OSCP certified, I try to expand my knowledge about the ever-expanding world of cyber security.
+I'm preparing for CBBH, CPTS, CWEE, learning Binary Exploitation, Reverse Engineering and general evasion techniques.
 
-I will add scripts as I develop them but currently working on expainding my current handbook.
+I will add scripts as I develop them, but currently working on expanding my handbook.
 
 <!---
 dh4r4/dh4r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
