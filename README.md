@@ -15,9 +15,9 @@ Goals: I wish I was a better runner :>
 
 ## `$ ps aux`
 - OSEP [`---------] 5%
-- CPTS: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
-- CWEE: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
-- CAPE: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
+- CPTS: [\\\\\\\\\\\\\\\\\\\\]100% only exam left
+- CWEE: [\\\\\\\\\\\\\\\\\\\\]100% only exam left
+- CAPE: [\\\\\\\\\\\\\\\\\\\\]100% only exam left
 - CWES: Certified
 - GXPN: Certified + GIAC Advisory Board
 - OSCP: Certified
