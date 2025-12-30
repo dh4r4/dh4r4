@@ -12,11 +12,10 @@ Two truths, one lie about me:
 
 
 ## `$ ps aux`
-OSEP [`---------] 5%
-
-CPTS: [\\\\\\\\\\]100% only cert left
-CWEE: [\\\\\\\\\\]100% only cert left
-CAPE: [\\\\\\\\\\]100% only cert left
-CWES: Certified
-GXPN: Certified + GIAC Advisory Board
-OSCP: Certified
+- OSEP [`---------] 5%
+- CPTS: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
+- CWEE: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
+- CAPE: [\\\\\\\\\\\\\\\\\\\\]100% only cert left
+- CWES: Certified
+- GXPN: Certified + GIAC Advisory Board
+- OSCP: Certified
