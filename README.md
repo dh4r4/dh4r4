@@ -6,6 +6,6 @@
 I like cars and opcodes. However, one of them is not working properly :/
 
 Two truths, one lie about me:
-I can't slap that bass
-My favourite language is C
-My dog is an integer
+- I can't slap that bass
+- My favourite language is C
+- My dog is an integer
